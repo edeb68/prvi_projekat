@@ -1,0 +1,33 @@
+{
+    "templates": [
+
+   {
+    "id": 1, 
+    "subject": "Dobrodosli u nasu zajednicu",
+    "body": "Postaovani {name, \n\nHvala sto ste se pridruzili u nas skroman kutak"
+
+   },
+   {
+      "id": 2,
+      "subject": "Posebna ponuda",
+      "body": "Poštovani {name},\n\nIskoristite našu novu ponudu!"
+    },
+    {
+      "id": 3,
+      "subject": "Obavijest",
+      "body": "Dragi {name},\n\nObavještavamo vas da..."
+    },
+    {
+      "id": 4,
+      "subject": "Podsjetnik",
+      "body": "Pozdrav {name},\n\nPodsjećamo vas na vaš dogovor."
+    },
+    {
+      "id": 5,
+      "subject": "Zahvala",
+      "body": "Hvala vam {name},\n\nVaša podrška nam znači puno!"
+    }
+
+    ]
+
+}
